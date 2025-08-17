@@ -1,0 +1,141 @@
+2025-08-17 13:41:18 - __main__ - INFO - sanny iniciado.
+2025-08-17 13:41:23 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 13:41:25 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:27 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:41:28 - voice - INFO - Comando reconhecido: 'Olá san'.
+2025-08-17 13:41:28 - __main__ - INFO - Comando recebido: 'olá san'.
+2025-08-17 13:41:29 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:31 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:41:32 - voice - INFO - Comando reconhecido: 'Olá'.
+2025-08-17 13:41:32 - __main__ - INFO - Comando recebido: 'olá'.
+2025-08-17 13:41:33 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:36 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:41:37 - voice - INFO - Comando reconhecido: 'Olá Sandy'.
+2025-08-17 13:41:37 - __main__ - INFO - Comando recebido: 'olá sandy'.
+2025-08-17 13:41:38 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:41 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:41:41 - voice - INFO - Comando reconhecido: 'Olá Sani'.
+2025-08-17 13:41:41 - __main__ - INFO - Comando recebido: 'olá sani'.
+2025-08-17 13:41:43 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:46 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:41:47 - voice - INFO - Comando reconhecido: 'Olá'.
+2025-08-17 13:41:47 - __main__ - INFO - Comando recebido: 'olá'.
+2025-08-17 13:41:48 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:50 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:41:51 - voice - INFO - Comando reconhecido: 'pô mas aí é fo'.
+2025-08-17 13:41:51 - __main__ - INFO - Comando recebido: 'pô mas aí é fo'.
+2025-08-17 13:41:52 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:54 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:41:55 - voice - INFO - Comando reconhecido: 'Olá san'.
+2025-08-17 13:41:55 - __main__ - INFO - Comando recebido: 'olá san'.
+2025-08-17 13:41:56 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:41:59 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:42:00 - voice - INFO - Comando reconhecido: 'Olá Sani'.
+2025-08-17 13:42:00 - __main__ - INFO - Comando recebido: 'olá sani'.
+2025-08-17 13:42:01 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:42:04 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:09 - __main__ - INFO - sanny iniciado.
+2025-08-17 13:43:14 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 13:43:15 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:43:17 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:18 - voice - INFO - Comando reconhecido: 'Bom dia San'.
+2025-08-17 13:43:18 - __main__ - INFO - Comando recebido: 'bom dia san'.
+2025-08-17 13:43:20 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:43:22 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:22 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:43:23 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:43:25 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:26 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:43:27 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:43:30 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:30 - voice - INFO - Comando reconhecido: 'Bom dia sanny'.
+2025-08-17 13:43:30 - __main__ - INFO - Comando recebido: 'bom dia sanny'.
+2025-08-17 13:43:37 - __main__ - WARNING - Pergunta muito curta para o Gemini: 'bom dia'
+2025-08-17 13:43:38 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:43:40 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:41 - voice - INFO - Comando reconhecido: 'Bom dia San'.
+2025-08-17 13:43:41 - __main__ - INFO - Comando recebido: 'bom dia san'.
+2025-08-17 13:43:42 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:43:47 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:48 - voice - INFO - Comando reconhecido: 'Bom dia sanny'.
+2025-08-17 13:43:48 - __main__ - INFO - Comando recebido: 'bom dia sanny'.
+2025-08-17 13:43:55 - __main__ - WARNING - Pergunta muito curta para o Gemini: 'bom dia'
+2025-08-17 13:43:56 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:43:58 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:43:59 - voice - INFO - Comando reconhecido: 'Sonic Que dia é hoje'.
+2025-08-17 13:43:59 - __main__ - INFO - Comando recebido: 'sonic que dia é hoje'.
+2025-08-17 13:44:00 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:04 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:06 - voice - INFO - Comando reconhecido: 'Sonic Que dia é hoje'.
+2025-08-17 13:44:06 - __main__ - INFO - Comando recebido: 'sonic que dia é hoje'.
+2025-08-17 13:44:07 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:10 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:11 - voice - INFO - Comando reconhecido: 'Sonic Que dia é hoje'.
+2025-08-17 13:44:11 - __main__ - INFO - Comando recebido: 'sonic que dia é hoje'.
+2025-08-17 13:44:13 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:16 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:17 - voice - INFO - Comando reconhecido: 'sanni Qual o seu nome'.
+2025-08-17 13:44:17 - __main__ - INFO - Comando recebido: 'sanni qual o seu nome'.
+2025-08-17 13:44:18 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:22 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:23 - voice - INFO - Comando reconhecido: 'sanni Qual o seu nome'.
+2025-08-17 13:44:23 - __main__ - INFO - Comando recebido: 'sanni qual o seu nome'.
+2025-08-17 13:44:24 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:26 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:27 - voice - INFO - Comando reconhecido: 'tá vendo fica reconhecendo'.
+2025-08-17 13:44:27 - __main__ - INFO - Comando recebido: 'tá vendo fica reconhecendo'.
+2025-08-17 13:44:28 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:32 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:33 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:44:34 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:35 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:36 - voice - INFO - Comando reconhecido: 'Anas'.
+2025-08-17 13:44:36 - __main__ - INFO - Comando recebido: 'anas'.
+2025-08-17 13:44:37 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:39 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:40 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:44:41 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:43 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:44 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:44:45 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:47 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:47 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:44:48 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:50 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:44:51 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:44:52 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:44:55 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 15:24:07 - __main__ - INFO - sanny iniciado.
+2025-08-17 15:31:05 - __main__ - INFO - sanny iniciado.
+2025-08-17 15:31:10 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 15:31:12 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 15:31:14 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 15:31:15 - voice - INFO - Comando reconhecido: 'Bom dia Sônia'.
+2025-08-17 15:31:15 - __main__ - INFO - Comando recebido: 'bom dia sônia'.
+2025-08-17 15:31:17 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 15:31:18 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 15:31:19 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 15:31:20 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 15:31:23 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 15:31:23 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 15:31:24 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 15:31:26 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 15:31:27 - voice - INFO - Comando reconhecido: 'Sandy Bom dia'.
+2025-08-17 15:31:27 - __main__ - INFO - Comando recebido: 'sandy bom dia'.
+2025-08-17 15:31:34 - __main__ - WARNING - Pergunta muito curta para o Gemini: 'bom dia'
+2025-08-17 15:31:35 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 15:31:49 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 15:31:49 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 15:31:50 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 15:33:38 - __main__ - INFO - sanny iniciado.
+2025-08-17 15:33:43 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 15:33:45 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 15:33:48 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 15:33:49 - voice - INFO - Comando reconhecido: 'fale sobre a Segunda Guerra Mundial'.
+2025-08-17 15:33:49 - __main__ - INFO - Comando recebido: 'fale sobre a segunda guerra mundial'.
+2025-08-17 16:48:00 - __main__ - INFO - sanny iniciado.
+2025-08-17 16:48:08 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 16:48:09 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 16:48:23 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 16:48:26 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 16:48:27 - voice - INFO - Iniciando escuta de comando.

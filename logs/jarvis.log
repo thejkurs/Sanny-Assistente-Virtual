@@ -1,0 +1,1118 @@
+2025-08-13 17:23:31 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 17:23:31 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2025-08-13 17:23:31 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:23:31 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen\__init__.py'
+2025-08-13 17:23:31 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:23:31 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-08-13 17:23:31 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-08-13 17:23:32 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2025-08-13 17:23:32 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-08-13 17:23:32 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-08-13 17:23:32 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2025-08-13 17:23:40 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 17:27:58 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 17:27:58 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\thejkurs\\Downloads\\backup-Desktop\\PROGRAMAÇÃO\\Project Jarvis 2.0\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-13 17:27:58 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:28:03 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 17:28:03 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:28:14 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:28:15 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-13 17:28:15 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-13 17:28:21 - __main__ - INFO - Pergunta ao Gemini: 'olá  tudo bem'. Resposta: 'Olá! Tudo bem, e você?...'
+2025-08-13 17:28:21 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:28:24 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:28:25 - speech_utils - INFO - Comando reconhecido: 'WhatsApp bro'.
+2025-08-13 17:28:25 - __main__ - INFO - Comando recebido: 'whatsapp bro'.
+2025-08-13 17:28:25 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:28:31 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:28:32 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:28:32 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:28:34 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:28:35 - speech_utils - INFO - Comando reconhecido: 'e Jarvis how'.
+2025-08-13 17:28:35 - __main__ - INFO - Comando recebido: 'e jarvis how'.
+2025-08-13 17:28:59 - __main__ - INFO - Pergunta ao Gemini: 'e  how'. Resposta: 'Please provide me with the rest of your question. ...'
+2025-08-13 17:28:59 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:29:02 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:29:03 - speech_utils - INFO - Comando reconhecido: 'Jarvis how'.
+2025-08-13 17:29:03 - __main__ - INFO - Comando recebido: 'jarvis how'.
+2025-08-13 17:29:31 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 17:29:31 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\thejkurs\\Downloads\\backup-Desktop\\PROGRAMAÇÃO\\Project Jarvis 2.0\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-13 17:29:31 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:29:36 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 17:29:36 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:29:41 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:29:42 - speech_utils - INFO - Comando reconhecido: 'WhatsApp Jar'.
+2025-08-13 17:29:42 - __main__ - INFO - Comando recebido: 'whatsapp jar'.
+2025-08-13 17:29:42 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:29:44 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:29:45 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:29:45 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:29:46 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:29:47 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:29:47 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:29:52 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:29:53 - speech_utils - INFO - Comando reconhecido: 'Hey Jar'.
+2025-08-13 17:29:53 - __main__ - INFO - Comando recebido: 'hey jar'.
+2025-08-13 17:29:53 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:29:56 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:29:56 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:29:57 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:29:58 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:29:59 - speech_utils - INFO - Comando reconhecido: 'Jarvis Rei'.
+2025-08-13 17:29:59 - __main__ - INFO - Comando recebido: 'jarvis rei'.
+2025-08-13 17:34:13 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 17:34:13 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\thejkurs\\Downloads\\backup-Desktop\\PROGRAMAÇÃO\\Project Jarvis 2.0\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-13 17:34:13 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:34:18 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 17:34:18 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:34:21 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:34:22 - speech_utils - INFO - Comando reconhecido: 'Hey Jarvis How A'.
+2025-08-13 17:34:22 - __main__ - INFO - Comando recebido: 'hey jarvis how a'.
+2025-08-13 17:34:29 - __main__ - INFO - Pergunta ao Gemini: 'hey  how a'. Resposta: 'How can I help you?  Please finish your question....'
+2025-08-13 17:34:29 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:34:32 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:34:33 - speech_utils - INFO - Comando reconhecido: 'Hey Jarvis How A'.
+2025-08-13 17:34:33 - __main__ - INFO - Comando recebido: 'hey jarvis how a'.
+2025-08-13 17:34:37 - __main__ - INFO - Pergunta ao Gemini: 'hey  how a'. Resposta: 'How can I help you?  Please finish your question....'
+2025-08-13 17:34:37 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:34:40 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:34:41 - speech_utils - INFO - Comando reconhecido: 'Hey Jarvis How A'.
+2025-08-13 17:34:41 - __main__ - INFO - Comando recebido: 'hey jarvis how a'.
+2025-08-13 17:38:59 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 17:38:59 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\thejkurs\\Downloads\\backup-Desktop\\PROGRAMAÇÃO\\Project Jarvis 2.0\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-13 17:38:59 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:39:04 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 17:39:04 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:39:07 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:39:09 - speech_utils - INFO - Comando reconhecido: 'Charles How A'.
+2025-08-13 17:39:09 - __main__ - INFO - Comando recebido: 'charles how a'.
+2025-08-13 17:39:09 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:39:13 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:39:13 - speech_utils - INFO - Comando reconhecido: 'Jarvis How A'.
+2025-08-13 17:39:13 - __main__ - INFO - Comando recebido: 'jarvis how a'.
+2025-08-13 17:48:21 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 17:48:21 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\thejkurs\\Downloads\\backup-Desktop\\PROGRAMAÇÃO\\Project Jarvis 2.0\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-13 17:48:21 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:48:26 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 17:48:26 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:48:30 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:48:31 - speech_utils - INFO - Comando reconhecido: 'Hey Jarvis How A'.
+2025-08-13 17:48:31 - __main__ - INFO - Comando recebido: 'hey jarvis how a'.
+2025-08-13 17:48:37 - __main__ - INFO - Pergunta ao Gemini: 'hey  how a'. Resposta: 'How can I help you?  Please finish your question....'
+2025-08-13 17:48:37 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:12 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 17:50:12 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\thejkurs\\Downloads\\backup-Desktop\\PROGRAMAÇÃO\\Project Jarvis 2.0\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-13 17:50:12 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 17:50:17 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 17:50:17 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:29 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:50:30 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:50:30 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:33 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:50:34 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:50:34 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:40 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:50:40 - speech_utils - INFO - Comando reconhecido: 'how'.
+2025-08-13 17:50:40 - __main__ - INFO - Comando recebido: 'how'.
+2025-08-13 17:50:41 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:44 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:50:44 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:50:45 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:48 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:50:48 - speech_utils - INFO - Comando reconhecido: 'How A'.
+2025-08-13 17:50:48 - __main__ - INFO - Comando recebido: 'how a'.
+2025-08-13 17:50:48 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:53 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:50:54 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 17:50:54 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 17:50:57 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 17:50:58 - speech_utils - INFO - Comando reconhecido: 'olá olá'.
+2025-08-13 17:50:58 - __main__ - INFO - Comando recebido: 'olá olá'.
+2025-08-13 17:50:58 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:00:58 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 18:00:58 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\thejkurs\\Downloads\\backup-Desktop\\PROGRAMAÇÃO\\Project Jarvis 2.0\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-13 18:00:58 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\comtypes\gen'
+2025-08-13 18:01:03 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 18:01:03 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:01:07 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:01:08 - speech_utils - INFO - Comando reconhecido: 'Olá chave'.
+2025-08-13 18:01:08 - __main__ - INFO - Comando recebido: 'olá chave'.
+2025-08-13 18:01:09 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:01:15 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:01:16 - speech_utils - INFO - Comando reconhecido: 'Olá de'.
+2025-08-13 18:01:16 - __main__ - INFO - Comando recebido: 'olá de'.
+2025-08-13 18:01:16 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:01:20 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:01:21 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis'.
+2025-08-13 18:01:21 - __main__ - INFO - Comando recebido: 'olá jarvis'.
+2025-08-13 18:01:27 - __main__ - INFO - Pergunta ao Gemini: 'olá'. Resposta: 'Olá! Como posso ajudar?...'
+2025-08-13 18:01:27 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:01:32 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:01:32 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:01:33 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:01:35 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:01:36 - speech_utils - INFO - Comando reconhecido: 'Hello je'.
+2025-08-13 18:01:36 - __main__ - INFO - Comando recebido: 'hello je'.
+2025-08-13 18:01:36 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:01:43 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:01:44 - speech_utils - INFO - Comando reconhecido: 'Jarvis hello'.
+2025-08-13 18:01:44 - __main__ - INFO - Comando recebido: 'jarvis hello'.
+2025-08-13 18:04:26 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 18:04:30 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 18:04:31 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:04:35 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:04:36 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-13 18:04:36 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-13 18:05:01 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Olá! Tudo bem, e com você?...'
+2025-08-13 18:05:02 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:05:08 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:05:12 - speech_utils - INFO - Comando reconhecido: 'não não não não não não não Hello James ho'.
+2025-08-13 18:05:12 - __main__ - INFO - Comando recebido: 'não não não não não não não hello james ho'.
+2025-08-13 18:05:13 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:05:18 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:05:19 - speech_utils - INFO - Comando reconhecido: 'Hello Jarvis How A'.
+2025-08-13 18:05:19 - __main__ - INFO - Comando recebido: 'hello jarvis how a'.
+2025-08-13 18:07:23 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 18:07:28 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 18:07:29 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:07:31 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:07:32 - speech_utils - INFO - Comando reconhecido: 'Olá Jorge tudo bem'.
+2025-08-13 18:07:32 - __main__ - INFO - Comando recebido: 'olá jorge tudo bem'.
+2025-08-13 18:07:33 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:07:36 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:07:37 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-13 18:07:37 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-13 18:07:38 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Erro ao comunicar com o Gemini: 429 You exceeded y...'
+2025-08-13 18:07:39 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:07:41 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:07:41 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:07:42 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:07:45 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:07:45 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:07:46 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:07:50 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:07:50 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:07:51 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:07:53 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:07:53 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:07:54 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:07:59 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:08:00 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:08:01 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:08:03 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:08:04 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:10:22 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 18:10:26 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 18:10:28 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:10:30 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:10:31 - speech_utils - INFO - Comando reconhecido: 'Abrir vs code'.
+2025-08-13 18:10:31 - __main__ - INFO - Comando recebido: 'abrir vs code'.
+2025-08-13 18:10:32 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:10:35 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:10:35 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:10:37 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:10:39 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:10:40 - speech_utils - INFO - Comando reconhecido: 'Jarvis abrir discord'.
+2025-08-13 18:10:40 - __main__ - INFO - Comando recebido: 'jarvis abrir discord'.
+2025-08-13 18:10:47 - __main__ - INFO - Pergunta ao Gemini: 'abrir discord'. Resposta: 'No puedo abrir Discord directamente. Soy un modelo...'
+2025-08-13 18:10:48 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:10:52 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:10:53 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:10:54 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:10:58 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:10:59 - speech_utils - INFO - Comando reconhecido: 'discord'.
+2025-08-13 18:10:59 - __main__ - INFO - Comando recebido: 'discord'.
+2025-08-13 18:11:00 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:11:05 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:11:05 - speech_utils - INFO - Comando reconhecido: 'abrir discord'.
+2025-08-13 18:11:05 - __main__ - INFO - Comando recebido: 'abrir discord'.
+2025-08-13 18:11:07 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:11:11 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:11:12 - speech_utils - INFO - Comando reconhecido: 'Jarvis como você está'.
+2025-08-13 18:11:12 - __main__ - INFO - Comando recebido: 'jarvis como você está'.
+2025-08-13 18:11:14 - __main__ - INFO - Pergunta ao Gemini: ' como você está'. Resposta: 'Erro ao comunicar com o Gemini: 429 You exceeded y...'
+2025-08-13 18:11:15 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:11:21 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:11:25 - speech_utils - INFO - Comando reconhecido: 'tatatatatatatatatatatatatatatatata'.
+2025-08-13 18:11:25 - __main__ - INFO - Comando recebido: 'tatatatatatatatatatatatatatatatata'.
+2025-08-13 18:11:26 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:11:29 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:11:30 - speech_utils - INFO - Comando reconhecido: 'tá muito'.
+2025-08-13 18:11:30 - __main__ - INFO - Comando recebido: 'tá muito'.
+2025-08-13 18:11:31 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:11:54 - __main__ - INFO - Jarvis iniciado.
+2025-08-13 18:11:59 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-13 18:12:00 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:12:02 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:12:03 - speech_utils - INFO - Comando reconhecido: 'Abrir Google'.
+2025-08-13 18:12:03 - __main__ - INFO - Comando recebido: 'abrir google'.
+2025-08-13 18:12:05 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:12:07 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:12:08 - speech_utils - INFO - Comando reconhecido: 'nossa'.
+2025-08-13 18:12:08 - __main__ - INFO - Comando recebido: 'nossa'.
+2025-08-13 18:12:09 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:12:13 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:12:14 - speech_utils - INFO - Comando reconhecido: 'Que horas são'.
+2025-08-13 18:12:14 - __main__ - INFO - Comando recebido: 'que horas são'.
+2025-08-13 18:12:15 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:12:17 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:12:18 - speech_utils - INFO - Comando reconhecido: 'horas'.
+2025-08-13 18:12:18 - __main__ - INFO - Comando recebido: 'horas'.
+2025-08-13 18:12:19 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:12:23 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:12:28 - speech_utils - INFO - Comando reconhecido: 'hora'.
+2025-08-13 18:12:28 - __main__ - INFO - Comando recebido: 'hora'.
+2025-08-13 18:12:29 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:12:31 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:12:31 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-13 18:12:33 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-13 18:12:34 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-13 18:12:35 - speech_utils - INFO - Comando reconhecido: 'encerrar'.
+2025-08-13 18:12:35 - __main__ - INFO - Comando recebido: 'encerrar'.
+2025-08-14 12:55:56 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 12:56:01 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 12:56:02 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:56:07 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:56:08 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis'.
+2025-08-14 12:56:08 - __main__ - INFO - Comando recebido: 'olá jarvis'.
+2025-08-14 12:56:08 - __main__ - WARNING - Pergunta muito curta para o Gemini: 'olá'
+2025-08-14 12:56:10 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:56:16 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:56:19 - speech_utils - INFO - Comando reconhecido: 'Ok toque toque chaves como você é'.
+2025-08-14 12:56:19 - __main__ - INFO - Comando recebido: 'ok toque toque chaves como você é'.
+2025-08-14 12:56:20 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:56:29 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:56:32 - speech_utils - INFO - Comando reconhecido: 'não você é das fontes de igreja Bom dia Jar'.
+2025-08-14 12:56:32 - __main__ - INFO - Comando recebido: 'não você é das fontes de igreja bom dia jar'.
+2025-08-14 12:56:33 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:56:36 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:56:37 - speech_utils - INFO - Comando reconhecido: 'Bom dia de a'.
+2025-08-14 12:56:37 - __main__ - INFO - Comando recebido: 'bom dia de a'.
+2025-08-14 12:56:38 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:56:40 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:56:41 - speech_utils - INFO - Comando reconhecido: 'cala a boca'.
+2025-08-14 12:56:41 - __main__ - INFO - Comando recebido: 'cala a boca'.
+2025-08-14 12:56:42 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:56:46 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:56:47 - speech_utils - INFO - Comando reconhecido: 'Charles Bom dia'.
+2025-08-14 12:56:47 - __main__ - INFO - Comando recebido: 'charles bom dia'.
+2025-08-14 12:56:48 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:56:52 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:56:52 - speech_utils - INFO - Comando reconhecido: 'Jarvis Bom dia'.
+2025-08-14 12:56:52 - __main__ - INFO - Comando recebido: 'jarvis bom dia'.
+2025-08-14 12:56:53 - __main__ - WARNING - Pergunta muito curta para o Gemini: 'bom dia'
+2025-08-14 12:56:54 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:57:36 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 12:57:40 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 12:57:42 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:57:43 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:57:44 - speech_utils - INFO - Comando reconhecido: 'pai Jarvis tudo bem'.
+2025-08-14 12:57:44 - __main__ - INFO - Comando recebido: 'pai jarvis tudo bem'.
+2025-08-14 12:57:51 - __main__ - INFO - Pergunta ao Gemini: ' pai  tudo bem'. Resposta: 'Tudo bem, e você?...'
+2025-08-14 12:57:52 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:57:56 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:57:56 - speech_utils - INFO - Comando reconhecido: 'Chaves como você é'.
+2025-08-14 12:57:56 - __main__ - INFO - Comando recebido: 'chaves como você é'.
+2025-08-14 12:57:58 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:01 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:58:01 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 12:58:03 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:04 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:58:05 - speech_utils - INFO - Comando reconhecido: 'Jarvis Qual a sua idade'.
+2025-08-14 12:58:05 - __main__ - INFO - Comando recebido: 'jarvis qual a sua idade'.
+2025-08-14 12:58:07 - __main__ - INFO - Pergunta ao Gemini: ' qual a sua idade'. Resposta: 'Eu não tenho idade. Sou um modelo de linguagem gra...'
+2025-08-14 12:58:08 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:16 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:58:18 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 12:58:19 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:22 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:58:23 - speech_utils - INFO - Comando reconhecido: 'Chaves me fala a raiz quadrada'.
+2025-08-14 12:58:23 - __main__ - INFO - Comando recebido: 'chaves me fala a raiz quadrada'.
+2025-08-14 12:58:24 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:30 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:58:31 - speech_utils - INFO - Comando reconhecido: 'Jarvis como você é'.
+2025-08-14 12:58:31 - __main__ - INFO - Comando recebido: 'jarvis como você é'.
+2025-08-14 12:58:34 - __main__ - INFO - Pergunta ao Gemini: 'como você é'. Resposta: 'Sou um modelo de linguagem grande, treinado pelo G...'
+2025-08-14 12:58:35 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:39 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:58:40 - speech_utils - INFO - Comando reconhecido: 'Chaves Qual o seu nome'.
+2025-08-14 12:58:40 - __main__ - INFO - Comando recebido: 'chaves qual o seu nome'.
+2025-08-14 12:58:42 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:44 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:58:45 - speech_utils - INFO - Comando reconhecido: 'Jarvis Qual o seu nome'.
+2025-08-14 12:58:45 - __main__ - INFO - Comando recebido: 'jarvis qual o seu nome'.
+2025-08-14 12:58:46 - __main__ - INFO - Pergunta ao Gemini: ' qual o seu nome'. Resposta: 'Eu sou um modelo de linguagem grande, treinado pel...'
+2025-08-14 12:58:47 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:58:59 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:02 - speech_utils - INFO - Comando reconhecido: 'Jarvis Você conhece Gemini'.
+2025-08-14 12:59:02 - __main__ - INFO - Comando recebido: 'jarvis você conhece gemini'.
+2025-08-14 12:59:03 - __main__ - INFO - Pergunta ao Gemini: 'Eu sou um modelo de linguagem grande, treinado pelo Google. você conhece gemini'. Resposta: 'Sim, conheço o Gemini.  O Gemini é um modelo de li...'
+2025-08-14 12:59:04 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:59:14 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:15 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 12:59:16 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:59:18 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:19 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 12:59:20 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:59:22 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:23 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 12:59:24 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:59:31 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:33 - speech_utils - INFO - Comando reconhecido: 'Chaves crie um script para mim'.
+2025-08-14 12:59:33 - __main__ - INFO - Comando recebido: 'chaves crie um script para mim'.
+2025-08-14 12:59:34 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:59:38 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:39 - speech_utils - INFO - Comando reconhecido: 'Jarvis crie um script para mim'.
+2025-08-14 12:59:39 - __main__ - INFO - Comando recebido: 'jarvis crie um script para mim'.
+2025-08-14 12:59:45 - __main__ - INFO - Pergunta ao Gemini: ' crie um script para mim'. Resposta: 'Para criar um script para você, preciso saber que ...'
+2025-08-14 12:59:46 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:59:53 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:54 - speech_utils - INFO - Comando reconhecido: 'ok'.
+2025-08-14 12:59:54 - __main__ - INFO - Comando recebido: 'ok'.
+2025-08-14 12:59:55 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 12:59:57 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 12:59:58 - speech_utils - INFO - Comando reconhecido: 'porém'.
+2025-08-14 12:59:58 - __main__ - INFO - Comando recebido: 'porém'.
+2025-08-14 12:59:59 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:04:02 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:04:07 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:04:08 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:04:10 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:04:11 - speech_utils - INFO - Comando reconhecido: 'Jarvis tudo bem'.
+2025-08-14 13:04:11 - __main__ - INFO - Comando recebido: 'jarvis tudo bem'.
+2025-08-14 13:04:12 - __main__ - INFO - Pergunta ao Gemini: ' tudo bem'. Resposta: 'Tudo bem, e você?...'
+2025-08-14 13:04:13 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:04:17 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:04:19 - speech_utils - INFO - Comando reconhecido: 'Jarvis crie um script para mim'.
+2025-08-14 13:04:19 - __main__ - INFO - Comando recebido: 'jarvis crie um script para mim'.
+2025-08-14 13:04:21 - __main__ - INFO - Pergunta ao Gemini: 'Tudo bem, e você? crie um script para mim'. Resposta: 'Vou precisar de mais informações para criar um scr...'
+2025-08-14 13:04:23 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:13:05 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:13:09 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:13:11 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:13:13 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:13:14 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 13:13:14 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 13:13:47 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Olá! Tudo bem, e você?...'
+2025-08-14 13:13:48 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:13:50 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:13:51 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:13:52 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:13:54 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:13:55 - speech_utils - INFO - Comando reconhecido: 'pararam'.
+2025-08-14 13:13:55 - __main__ - INFO - Comando recebido: 'pararam'.
+2025-08-14 13:13:56 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:13:59 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:14:01 - speech_utils - INFO - Comando reconhecido: 'Charles Oi'.
+2025-08-14 13:14:01 - __main__ - INFO - Comando recebido: 'charles oi'.
+2025-08-14 13:14:02 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:14:04 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:14:05 - speech_utils - INFO - Comando reconhecido: 'Jarvis Oi'.
+2025-08-14 13:14:05 - __main__ - INFO - Comando recebido: 'jarvis oi'.
+2025-08-14 13:14:05 - __main__ - WARNING - Pergunta muito curta para o Gemini: 'oi'
+2025-08-14 13:14:06 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:17:03 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:17:09 - speech_utils - ERROR - Erro ao tentar falar usando gTTS: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\thejkurs\\AppData\\Local\\Temp\\tmpylpty7_8.mp3'
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 31, in falar
+    os.remove(filename)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\thejkurs\\AppData\\Local\\Temp\\tmpylpty7_8.mp3'
+2025-08-14 13:17:09 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:17:10 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:17:18 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:17:19 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 13:17:19 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 13:17:34 - speech_utils - ERROR - Erro ao tentar falar usando gTTS: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\thejkurs\\AppData\\Local\\Temp\\tmpbexlvo4q.mp3'
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 31, in falar
+    os.remove(filename)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\thejkurs\\AppData\\Local\\Temp\\tmpbexlvo4q.mp3'
+2025-08-14 13:17:34 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Olá! Tudo bem, e você?...'
+2025-08-14 13:17:35 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:17:39 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:17:40 - speech_utils - INFO - Comando reconhecido: 'estou bem e você'.
+2025-08-14 13:17:40 - __main__ - INFO - Comando recebido: 'estou bem e você'.
+2025-08-14 13:17:41 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:17:46 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:17:47 - speech_utils - INFO - Comando reconhecido: 'Charles eu estou bem e você'.
+2025-08-14 13:17:47 - __main__ - INFO - Comando recebido: 'charles eu estou bem e você'.
+2025-08-14 13:17:48 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:17:51 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:17:52 - speech_utils - INFO - Comando reconhecido: 'Jarvis Eu estou bem e você'.
+2025-08-14 13:17:52 - __main__ - INFO - Comando recebido: 'jarvis eu estou bem e você'.
+2025-08-14 13:18:03 - speech_utils - ERROR - Erro ao tentar falar usando gTTS: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\thejkurs\\AppData\\Local\\Temp\\tmpv5m6z3v2.mp3'
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 31, in falar
+    os.remove(filename)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\thejkurs\\AppData\\Local\\Temp\\tmpv5m6z3v2.mp3'
+2025-08-14 13:18:03 - __main__ - INFO - Pergunta ao Gemini: ' eu estou bem e você'. Resposta: 'Estou bem, obrigado por perguntar! Como posso te a...'
+2025-08-14 13:18:04 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:18:07 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:18:09 - speech_utils - INFO - Comando reconhecido: 'Chaves Arno of Gangstar'.
+2025-08-14 13:18:09 - __main__ - INFO - Comando recebido: 'chaves arno of gangstar'.
+2025-08-14 13:18:10 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:18:14 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:18:15 - speech_utils - INFO - Comando reconhecido: 'tá funcionando'.
+2025-08-14 13:18:15 - __main__ - INFO - Comando recebido: 'tá funcionando'.
+2025-08-14 13:18:16 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:18:42 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:18:47 - speech_utils - INFO - Comando reconhecido: 'bate alto'.
+2025-08-14 13:18:47 - __main__ - INFO - Comando recebido: 'bate alto'.
+2025-08-14 13:18:48 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:18:54 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:18:55 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:18:56 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:02 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:03 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:04 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:06 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:06 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:08 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:15 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:16 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:17 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:23 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:24 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:25 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:29 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:30 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:31 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:37 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:38 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:39 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:43 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:43 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:45 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:49 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:50 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:19:51 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:19:55 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:19:56 - speech_utils - INFO - Comando reconhecido: 'que foi'.
+2025-08-14 13:19:56 - __main__ - INFO - Comando recebido: 'que foi'.
+2025-08-14 13:19:57 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:20:05 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:20:06 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:20:08 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:20:11 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:20:12 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:20:29 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:20:34 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:20:35 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:20:38 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:20:40 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 13:20:40 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 13:20:46 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Olá! Tudo bem e você?...'
+2025-08-14 13:20:47 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:20:51 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:20:52 - speech_utils - INFO - Comando reconhecido: 'Chaves crie um script para mim'.
+2025-08-14 13:20:52 - __main__ - INFO - Comando recebido: 'chaves crie um script para mim'.
+2025-08-14 13:20:53 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:20:56 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:20:57 - speech_utils - INFO - Comando reconhecido: 'Jarvis crie um script para mim'.
+2025-08-14 13:20:57 - __main__ - INFO - Comando recebido: 'jarvis crie um script para mim'.
+2025-08-14 13:24:11 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:24:15 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:24:17 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:24:20 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:24:21 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 13:24:21 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 13:24:25 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Olá! Tudo bem, e você?...'
+2025-08-14 13:24:26 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:24:31 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:24:31 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:24:33 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:24:51 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:24:56 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:24:57 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:25:02 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:25:03 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 13:25:03 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 13:25:43 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:25:48 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:25:49 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:25:52 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:25:53 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 13:25:53 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 13:35:55 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:36:00 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:36:01 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:36:06 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:36:07 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:36:08 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:36:13 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:36:14 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:36:15 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:36:31 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:36:36 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:36:38 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:36:40 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:36:41 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 13:36:41 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 13:37:18 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 13:37:24 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 13:37:25 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:37:29 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:37:30 - speech_utils - INFO - Comando reconhecido: 'Abrir aplicativo'.
+2025-08-14 13:37:30 - __main__ - INFO - Comando recebido: 'abrir aplicativo'.
+2025-08-14 13:37:46 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:37:50 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:37:51 - speech_utils - INFO - Comando reconhecido: 'Abrir aplicativo discord'.
+2025-08-14 13:37:51 - __main__ - INFO - Comando recebido: 'abrir aplicativo discord'.
+2025-08-14 13:38:05 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:38:08 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:38:08 - speech_utils - INFO - Comando reconhecido: 'Abrir vs code'.
+2025-08-14 13:38:08 - __main__ - INFO - Comando recebido: 'abrir vs code'.
+2025-08-14 13:38:10 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:38:19 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:38:20 - speech_utils - INFO - Comando reconhecido: 'acorda o papai chegou'.
+2025-08-14 13:38:20 - __main__ - INFO - Comando recebido: 'acorda o papai chegou'.
+2025-08-14 13:39:03 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 13:39:09 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 13:39:10 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-14 13:39:11 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:20:07 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 16:20:13 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 16:20:14 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:20:17 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:20:19 - speech_utils - INFO - Comando reconhecido: 'Olá Jar'.
+2025-08-14 16:20:19 - __main__ - INFO - Comando recebido: 'olá jar'.
+2025-08-14 16:20:20 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:20:23 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:20:24 - speech_utils - INFO - Comando reconhecido: 'Olá Jar'.
+2025-08-14 16:20:24 - __main__ - INFO - Comando recebido: 'olá jar'.
+2025-08-14 16:20:25 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:20:28 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:20:29 - speech_utils - INFO - Comando reconhecido: 'Olá Jar'.
+2025-08-14 16:20:29 - __main__ - INFO - Comando recebido: 'olá jar'.
+2025-08-14 16:20:30 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:20:33 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:20:34 - speech_utils - INFO - Comando reconhecido: 'Jarvis tudo bem'.
+2025-08-14 16:20:34 - __main__ - INFO - Comando recebido: 'jarvis tudo bem'.
+2025-08-14 16:20:38 - __main__ - INFO - Pergunta ao Gemini: ' tudo bem'. Resposta: 'Tudo bem, e você?...'
+2025-08-14 16:20:39 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:20:42 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:20:43 - speech_utils - INFO - Comando reconhecido: 'Chaves crie um script para mim'.
+2025-08-14 16:20:43 - __main__ - INFO - Comando recebido: 'chaves crie um script para mim'.
+2025-08-14 16:20:44 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:20:48 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:20:49 - speech_utils - INFO - Comando reconhecido: 'Jarvis crie um script para mim'.
+2025-08-14 16:20:49 - __main__ - INFO - Comando recebido: 'jarvis crie um script para mim'.
+2025-08-14 16:21:43 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 16:21:49 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 16:21:50 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:21:53 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:21:54 - speech_utils - INFO - Comando reconhecido: 'Jarvis crie um script para mim'.
+2025-08-14 16:21:54 - __main__ - INFO - Comando recebido: 'jarvis crie um script para mim'.
+2025-08-14 16:27:47 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 16:27:52 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 16:27:54 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:27:56 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:27:58 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 16:27:58 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-14 16:28:03 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Olá! Tudo bem, e você?...'
+2025-08-14 16:28:04 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:28:07 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:28:08 - speech_utils - INFO - Comando reconhecido: 'Jarvis Qual o seu nome'.
+2025-08-14 16:28:08 - __main__ - INFO - Comando recebido: 'jarvis qual o seu nome'.
+2025-08-14 16:28:23 - __main__ - INFO - Pergunta ao Gemini: 'Olá! Tudo bem, e você? qual o seu nome'. Resposta: 'Olá! Estou bem, obrigado por perguntar.  Eu não te...'
+2025-08-14 16:28:24 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:28:28 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:28:29 - speech_utils - INFO - Comando reconhecido: 'Jarvis Quem descobriu o Brasil'.
+2025-08-14 16:28:29 - __main__ - INFO - Comando recebido: 'jarvis quem descobriu o brasil'.
+2025-08-14 16:36:10 - __main__ - INFO - Jarvis iniciado.
+2025-08-14 16:36:16 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-14 16:36:17 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:36:20 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:36:22 - speech_utils - INFO - Comando reconhecido: 'acorda papai chegou'.
+2025-08-14 16:36:22 - __main__ - INFO - Comando recebido: 'acorda papai chegou'.
+2025-08-14 16:36:23 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-14 16:36:27 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-14 16:36:28 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-14 16:36:28 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-15 10:38:00 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 10:38:06 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 10:38:07 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:38:11 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:38:13 - speech_utils - INFO - Comando reconhecido: 'Chaves crie um script para mim'.
+2025-08-15 10:38:13 - __main__ - INFO - Comando recebido: 'chaves crie um script para mim'.
+2025-08-15 10:38:14 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:38:19 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:38:41 - speech_utils - ERROR - RequestError: Problema na requisição ao serviço Google Speech Recognition; recognition connection failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Traceback (most recent call last):
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              encode_chunked=req.has_header('Transfer-encoding'))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1338, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1384, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1037, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1003, in connect
+    self.sock = self._create_connection(
+                ~~~~~~~~~~~~~~~~~~~~~~~^
+        (self.host,self.port), self.timeout, self.source_address)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 864, in create_connection
+    raise exceptions[0]
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 849, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 215, in obtain_transcription
+    response = urlopen(request, timeout=timeout)
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 189, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 489, in open
+    response = self._open(req, data)
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 506, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 466, in _call_chain
+    result = func(*args)
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 1348, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thejkurs\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 65, in ouvir_comando
+    comando = r.recognize_google(audio, language='pt-BR')
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 255, in recognize_legacy
+    response_text = obtain_transcription(
+        request, timeout=recognizer.operation_timeout
+    )
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 219, in obtain_transcription
+    raise RequestError(
+        "recognition connection failed: {}".format(e.reason)
+    )
+speech_recognition.exceptions.RequestError: recognition connection failed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2025-08-15 10:38:42 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:38:44 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:38:45 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:38:46 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:38:48 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:38:49 - speech_utils - INFO - Comando reconhecido: 'dê um papel'.
+2025-08-15 10:38:49 - __main__ - INFO - Comando recebido: 'dê um papel'.
+2025-08-15 10:38:50 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:38:53 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:38:53 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:38:54 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:00 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:01 - speech_utils - INFO - Comando reconhecido: 'bom dia Mateus Bom dia já sou minha passagem'.
+2025-08-15 10:39:01 - __main__ - INFO - Comando recebido: 'bom dia mateus bom dia já sou minha passagem'.
+2025-08-15 10:39:03 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:04 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:05 - speech_utils - INFO - Comando reconhecido: 'Diz aí ó volta'.
+2025-08-15 10:39:05 - __main__ - INFO - Comando recebido: 'diz aí ó volta'.
+2025-08-15 10:39:06 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:09 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:10 - speech_utils - INFO - Comando reconhecido: 'Qual número é'.
+2025-08-15 10:39:10 - __main__ - INFO - Comando recebido: 'qual número é'.
+2025-08-15 10:39:11 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:13 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:14 - speech_utils - INFO - Comando reconhecido: '2933 é'.
+2025-08-15 10:39:14 - __main__ - INFO - Comando recebido: '2933 é'.
+2025-08-15 10:39:15 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:18 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:19 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:39:20 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:23 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:24 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:39:26 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:27 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:28 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:39:29 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:30 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:39:31 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:39:32 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:39:36 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:40:03 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 10:40:08 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 10:40:10 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:40:11 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:40:12 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:40:13 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:40:15 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:40:16 - speech_utils - INFO - Comando reconhecido: 'um script para mim'.
+2025-08-15 10:40:16 - __main__ - INFO - Comando recebido: 'um script para mim'.
+2025-08-15 10:40:17 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:40:21 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:40:21 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:40:22 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:40:29 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:40:30 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:40:31 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:40:39 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:40:41 - speech_utils - INFO - Comando reconhecido: 'Jarvis crie um script para mim'.
+2025-08-15 10:40:41 - __main__ - INFO - Comando recebido: 'jarvis crie um script para mim'.
+2025-08-15 10:58:12 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 10:58:18 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 10:58:19 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:58:24 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:58:25 - speech_utils - INFO - Comando reconhecido: 'Nestlé'.
+2025-08-15 10:58:25 - __main__ - INFO - Comando recebido: 'nestlé'.
+2025-08-15 10:58:26 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:58:28 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:58:29 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:58:30 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 10:58:33 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 10:58:34 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 10:58:35 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:00:50 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 11:00:55 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 11:00:57 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:00:59 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:01:00 - speech_utils - INFO - Comando reconhecido: 'Sunshine'.
+2025-08-15 11:01:00 - __main__ - INFO - Comando recebido: 'sunshine'.
+2025-08-15 11:01:01 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:01:20 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:01:23 - speech_utils - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-15 11:01:24 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:01:27 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:01:28 - speech_utils - INFO - Comando reconhecido: 'Sunny'.
+2025-08-15 11:01:28 - __main__ - INFO - Comando recebido: 'sunny'.
+2025-08-15 11:01:30 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:19:40 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 11:19:44 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 11:19:45 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:20:30 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 11:20:34 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 11:20:35 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:20:37 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:20:37 - speech_utils - CRITICAL - Erro inesperado em ouvir_comando: ``language`` must be a string
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 68, in ouvir_comando
+    comando = r.recognize_google(audio, language=None)
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 250, in recognize_legacy
+    request_builder = create_request_builder(
+        endpoint=endpoint, key=key, language=language, filter_level=pfilter
+    )
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 114, in create_request_builder
+    raise ValueError("``language`` must be a string")
+ValueError: ``language`` must be a string
+2025-08-15 11:20:38 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:20:43 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:20:43 - speech_utils - CRITICAL - Erro inesperado em ouvir_comando: ``language`` must be a string
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 68, in ouvir_comando
+    comando = r.recognize_google(audio, language=None)
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 250, in recognize_legacy
+    request_builder = create_request_builder(
+        endpoint=endpoint, key=key, language=language, filter_level=pfilter
+    )
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 114, in create_request_builder
+    raise ValueError("``language`` must be a string")
+ValueError: ``language`` must be a string
+2025-08-15 11:20:44 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:20:47 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:20:47 - speech_utils - CRITICAL - Erro inesperado em ouvir_comando: ``language`` must be a string
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 68, in ouvir_comando
+    comando = r.recognize_google(audio, language=None)
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 250, in recognize_legacy
+    request_builder = create_request_builder(
+        endpoint=endpoint, key=key, language=language, filter_level=pfilter
+    )
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 114, in create_request_builder
+    raise ValueError("``language`` must be a string")
+ValueError: ``language`` must be a string
+2025-08-15 11:20:48 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:35:34 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 11:35:39 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 11:35:40 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:35:48 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:35:48 - speech_utils - CRITICAL - Erro inesperado em ouvir_comando: ``language`` must be a string
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 76, in ouvir_comando
+    raw_text = r.recognize_google(audio, language=None)
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 250, in recognize_legacy
+    request_builder = create_request_builder(
+        endpoint=endpoint, key=key, language=language, filter_level=pfilter
+    )
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 114, in create_request_builder
+    raise ValueError("``language`` must be a string")
+ValueError: ``language`` must be a string
+2025-08-15 11:35:49 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:35:52 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:35:52 - speech_utils - CRITICAL - Erro inesperado em ouvir_comando: ``language`` must be a string
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 76, in ouvir_comando
+    raw_text = r.recognize_google(audio, language=None)
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 250, in recognize_legacy
+    request_builder = create_request_builder(
+        endpoint=endpoint, key=key, language=language, filter_level=pfilter
+    )
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 114, in create_request_builder
+    raise ValueError("``language`` must be a string")
+ValueError: ``language`` must be a string
+2025-08-15 11:35:53 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:35:55 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:35:55 - speech_utils - CRITICAL - Erro inesperado em ouvir_comando: ``language`` must be a string
+Traceback (most recent call last):
+  File "c:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\speech_utils.py", line 76, in ouvir_comando
+    raw_text = r.recognize_google(audio, language=None)
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 250, in recognize_legacy
+    request_builder = create_request_builder(
+        endpoint=endpoint, key=key, language=language, filter_level=pfilter
+    )
+  File "C:\Users\thejkurs\Downloads\backup-Desktop\PROGRAMAÇÃO\Project Jarvis 2.0\.venv\Lib\site-packages\speech_recognition\recognizers\google.py", line 114, in create_request_builder
+    raise ValueError("``language`` must be a string")
+ValueError: ``language`` must be a string
+2025-08-15 11:35:57 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:36:18 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 11:36:23 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 11:36:24 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:36:35 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:36:38 - speech_utils - INFO - Comando reconhecido: 'Olá Jarvis tudo bem olá Jarvis'.
+2025-08-15 11:36:38 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem olá jarvis'.
+2025-08-15 11:36:44 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem olá jarvis'. Resposta: 'Olá! Tudo bem, e você?  Como posso ajudar?...'
+2025-08-15 11:36:45 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:36:48 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:36:49 - speech_utils - INFO - Comando reconhecido: 'Chaves Qual é a raiz quadrada'.
+2025-08-15 11:36:49 - __main__ - INFO - Comando recebido: 'chaves qual é a raiz quadrada'.
+2025-08-15 11:36:51 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 11:36:56 - speech_utils - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 11:36:58 - speech_utils - INFO - Comando reconhecido: 'eu quero Lourenço Jarvis Qual é a raiz'.
+2025-08-15 11:36:58 - __main__ - INFO - Comando recebido: 'eu quero lourenço jarvis qual é a raiz'.
+2025-08-15 11:37:26 - __main__ - INFO - Pergunta ao Gemini: ' eu quero lourenço  qual é a raiz'. Resposta: 'A raiz da palavra "Lourenço" é o nome próprio **La...'
+2025-08-15 11:37:27 - speech_utils - INFO - Iniciando escuta de comando.
+2025-08-15 12:25:04 - __main__ - INFO - Jarvis iniciado.
+2025-08-15 12:25:09 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-15 12:25:11 - voice - INFO - Iniciando escuta de comando.
+2025-08-15 12:25:17 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 12:25:19 - voice - INFO - Comando reconhecido: 'mostrar horas mostrar horas'.
+2025-08-15 12:25:19 - __main__ - INFO - Comando recebido: 'mostrar horas mostrar horas'.
+2025-08-15 12:25:20 - voice - INFO - Iniciando escuta de comando.
+2025-08-15 12:25:28 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-15 12:25:29 - voice - INFO - Comando reconhecido: 'Que horas são'.
+2025-08-15 12:25:29 - __main__ - INFO - Comando recebido: 'que horas são'.
+2025-08-16 12:26:24 - __main__ - INFO - Jarvis iniciado.
+2025-08-16 12:26:29 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-16 12:26:31 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:26:33 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:26:35 - voice - INFO - Comando reconhecido: 'Olá Jarvis tudo bem'.
+2025-08-16 12:26:35 - __main__ - INFO - Comando recebido: 'olá jarvis tudo bem'.
+2025-08-16 12:26:40 - __main__ - INFO - Pergunta ao Gemini: ' olá  tudo bem'. Resposta: 'Olá! Tudo bem, e você?...'
+2025-08-16 12:26:41 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:26:45 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:26:46 - voice - INFO - Comando reconhecido: 'Jarvis fala para mim quanto é 22'.
+2025-08-16 12:26:46 - __main__ - INFO - Comando recebido: 'jarvis fala para mim quanto é 22'.
+2025-08-16 12:26:51 - __main__ - INFO - Pergunta ao Gemini: 'fala para mim quanto é 22'. Resposta: '22 é **vinte e dois**....'
+2025-08-16 12:26:52 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:26:56 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:26:56 - voice - INFO - Comando reconhecido: 'Jarvis Qual é a'.
+2025-08-16 12:26:56 - __main__ - INFO - Comando recebido: 'jarvis qual é a'.
+2025-08-16 12:27:07 - __main__ - INFO - Pergunta ao Gemini: 'qual é a'. Resposta: 'A sua pergunta está incompleta. Por favor, termine...'
+2025-08-16 12:27:08 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:27:10 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:27:10 - voice - INFO - Comando reconhecido: 'Jarvis'.
+2025-08-16 12:27:10 - __main__ - INFO - Comando recebido: 'jarvis'.
+2025-08-16 12:27:16 - __main__ - WARNING - Comando Gemini invocado sem pergunta.
+2025-08-16 12:27:17 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:27:21 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:27:22 - voice - INFO - Comando reconhecido: 'Chaves Qual a história do Brasil'.
+2025-08-16 12:27:22 - __main__ - INFO - Comando recebido: 'chaves qual a história do brasil'.
+2025-08-16 12:27:24 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:27:32 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:27:33 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-16 12:27:34 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:27:44 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:27:44 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-16 12:27:45 - voice - INFO - Iniciando escuta de comando.
+2025-08-16 12:27:54 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-16 12:27:54 - voice - INFO - Comando reconhecido: 'Jarvis Qual a história'.
+2025-08-16 12:27:55 - __main__ - INFO - Comando recebido: 'jarvis qual a história'.
+2025-08-17 13:39:06 - __main__ - INFO - Jarvis iniciado.
+2025-08-17 13:39:12 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 13:39:13 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:39:16 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:39:17 - voice - INFO - Comando reconhecido: 'Bom dia San'.
+2025-08-17 13:39:17 - __main__ - INFO - Comando recebido: 'bom dia san'.
+2025-08-17 13:39:19 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:39:23 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:39:24 - voice - INFO - Comando reconhecido: 'Bom dia sanny'.
+2025-08-17 13:39:24 - __main__ - INFO - Comando recebido: 'bom dia sanny'.
+2025-08-17 13:39:25 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:39:47 - __main__ - INFO - Jarvis iniciado.
+2025-08-17 13:39:53 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 13:39:54 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:39:56 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:39:57 - voice - INFO - Comando reconhecido: 'Raissa'.
+2025-08-17 13:39:57 - __main__ - INFO - Comando recebido: 'raissa'.
+2025-08-17 13:39:58 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:40:00 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:40:01 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:40:02 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:40:04 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:40:04 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:40:06 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:40:08 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:40:08 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:40:09 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:40:13 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:40:14 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 13:40:15 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:40:17 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:45:37 - __main__ - INFO - Jarvis iniciado.
+2025-08-17 13:45:42 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 13:45:43 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 13:45:49 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 13:45:50 - voice - INFO - Comando reconhecido: 'encerrar'.
+2025-08-17 13:45:50 - __main__ - INFO - Comando recebido: 'encerrar'.
+2025-08-17 14:12:49 - __main__ - INFO - Jarvis iniciado.
+2025-08-17 14:12:54 - __main__ - INFO - Mensagem de boas-vindas falada.
+2025-08-17 14:12:55 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:12:58 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:12:58 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:00 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:04 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:05 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:06 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:11 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:12 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:13 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:14 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:15 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:16 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:18 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:18 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:20 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:25 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:26 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:27 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:30 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:30 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:32 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:42 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:44 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:13:45 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:13:57 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:13:59 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:00 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:04 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:05 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:06 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:10 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:11 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:12 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:14 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:14 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:15 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:17 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:18 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:19 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:22 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:23 - voice - INFO - Comando reconhecido: 'Olá san'.
+2025-08-17 14:14:23 - __main__ - INFO - Comando recebido: 'olá san'.
+2025-08-17 14:14:24 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:27 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:27 - voice - INFO - Comando reconhecido: 'Olá san'.
+2025-08-17 14:14:27 - __main__ - INFO - Comando recebido: 'olá san'.
+2025-08-17 14:14:29 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:32 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:32 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:33 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:37 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:37 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:39 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:42 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:43 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:44 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:14:51 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:14:52 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:14:53 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:00 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:01 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:15:02 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:12 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:13 - voice - INFO - Comando reconhecido: 'Olá'.
+2025-08-17 14:15:13 - __main__ - INFO - Comando recebido: 'olá'.
+2025-08-17 14:15:14 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:17 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:18 - voice - INFO - Comando reconhecido: 'Sunny como você está'.
+2025-08-17 14:15:18 - __main__ - INFO - Comando recebido: 'sunny como você está'.
+2025-08-17 14:15:26 - __main__ - INFO - Pergunta ao Gemini: ' como você está'. Resposta: 'Estou bem, obrigado por perguntar! Como posso te a...'
+2025-08-17 14:15:27 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:31 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:31 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:15:32 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:34 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:35 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:15:36 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:43 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:45 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:15:46 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:49 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:49 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:15:50 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:15:55 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:15:56 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:15:57 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:08 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:08 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:10 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:12 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:12 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:14 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:19 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:20 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:21 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:24 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:25 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:26 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:27 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:28 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:29 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:33 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:34 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:35 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:37 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:37 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:39 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:40 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:41 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:42 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:45 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:46 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:47 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:50 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:50 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:51 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:16:56 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:16:57 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:16:58 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:17:02 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:17:03 - voice - WARNING - UnknownValueError: Não foi possível entender o áudio.
+2025-08-17 14:17:04 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:17:07 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:17:08 - voice - INFO - Comando reconhecido: 'Sunny me diga qual sua idade'.
+2025-08-17 14:17:08 - __main__ - INFO - Comando recebido: 'sunny me diga qual sua idade'.
+2025-08-17 14:17:23 - __main__ - INFO - Pergunta ao Gemini: 'Estou bem, obrigado por perguntar! Como posso te ajudar hoje? me diga qual sua idade'. Resposta: 'Como um modelo de linguagem grande, eu não tenho i...'
+2025-08-17 14:17:24 - voice - INFO - Iniciando escuta de comando.
+2025-08-17 14:17:29 - voice - INFO - Áudio capturado. Tentando reconhecer.
+2025-08-17 14:17:30 - voice - INFO - Comando reconhecido: 'sanni Você tem alguma habilidade'.
+2025-08-17 14:17:30 - __main__ - INFO - Comando recebido: 'sanni você tem alguma habilidade'.
